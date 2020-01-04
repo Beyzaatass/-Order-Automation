@@ -1,0 +1,53 @@
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\bin\Debug\SiparisOtomasyonu.exe.config
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\bin\Debug\SiparisOtomasyonu.exe
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\bin\Debug\SiparisOtomasyonu.pdb
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaMusteri.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaYonetici.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.Properties.Resources.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiEkle.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiIslemleri.YoneticiListesi.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.exe
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.pdb
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.LoginForm.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriEkle.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriListesi.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunEkle.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunListesi.resources
+C:\Users\ismail\Documents\Visual Studio 2017\Projects\SiparisOtomasyonu\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisEkle.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaMusteri.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaYonetici.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.LoginForm.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriEkle.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriListesi.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.Properties.Resources.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisEkle.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisListesi.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisListesiYonetici.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunEkle.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunListesi.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiEkle.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiIslemleri.YoneticiListesi.resources
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.exe
+C:\Users\beyza\Desktop\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.pdb
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csprojAssemblyReference.cache
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaMusteri.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.AnaSayfaYonetici.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.LoginForm.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriEkle.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.MusteriIslemleri.MusteriListesi.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.Properties.Resources.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisEkle.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisListesi.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.SiparisIslemleri.SiparisListesiYonetici.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunEkle.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.UrunIslemleri.UrunListesi.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiEkle.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.YoneticiIslemleri.YoneticiListesi.resources
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.csproj.GenerateResource.cache
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.exe
+C:\Users\beyza\Desktop\DERS NOTLARI\ÖDEVLER\SiparisOtomasyonu\obj\Debug\SiparisOtomasyonu.pdb

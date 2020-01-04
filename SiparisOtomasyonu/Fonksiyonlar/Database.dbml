@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SiparisOtomasyonu" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=SALBACE\SQLEXPRESS;Initial Catalog=SiparisOtomasyonu;Integrated Security=True" SettingsObjectName="SiparisOtomasyonu.Properties.Settings" SettingsPropertyName="SiparisOtomasyonuConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TBL_Musteriler" Member="TBL_Musterilers">
+    <Type Name="TBL_Musteriler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MusteriAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriSoyad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriTelefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriMail" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="MusteriKullaniciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriSifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_Urun" Member="TBL_Uruns">
+    <Type Name="TBL_Urun">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UrunAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StokAdet" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UrunFiyat" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_Yoneticiler" Member="TBL_Yoneticilers">
+    <Type Name="TBL_Yoneticiler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="YoneticiKullaniciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YoneticiSifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YoneticiAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YoneticiSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_Siparisler" Member="TBL_Siparislers">
+    <Type Name="TBL_Siparisler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MusteriID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UrunID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OdemeTipi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Il" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ilce" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ToplamUcret" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VW_Siparisler" Member="VW_Siparislers">
+    <Type Name="VW_Siparisler">
+      <Column Name="MusteriAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriSoyad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriTelefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusteriMail" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="UrunAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OdemeTipi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adres" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Il" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ilce" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ToplamUcret" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adet" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

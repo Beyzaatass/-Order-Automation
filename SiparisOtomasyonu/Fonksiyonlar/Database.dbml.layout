@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Database">
+  <DataContextMoniker Name="/DatabaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9afef6d8-100a-4794-a638-ab9899d40b80" isExpanded="false" absoluteBounds="0.75, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/DatabaseDataContext/TBL_Musteriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c68300a7-c86b-4074-ac19-fc0cae0d7429" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a7395908-89f1-46f8-9617-24d5154f5366" absoluteBounds="3.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DatabaseDataContext/TBL_Urun" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a73d5a9-ce0d-4e3f-8314-e1450269cd35" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0fe90fb6-7f9e-4303-affe-64183b0fd8a8" absoluteBounds="6.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/DatabaseDataContext/TBL_Yoneticiler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="722e8195-e76a-4380-a76e-420e519c1025" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="aba42087-f9a8-4877-a832-903919880777" isExpanded="false" absoluteBounds="2.125, 1.625, 2, 0.45">
+      <DataClassMoniker Name="/DatabaseDataContext/TBL_Siparisler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b41d24fa-e60d-45e6-b671-aba2fe525942" absoluteBounds="2.14, 2.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e1edfbe9-a3f8-42a3-8869-f08b274bead2" isExpanded="false" absoluteBounds="3.25, 2.375, 2, 0.45">
+      <DataClassMoniker Name="/DatabaseDataContext/VW_Siparisler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="885360c6-2d4b-44a4-935c-7b45f7d4c2d1" absoluteBounds="3.265, 2.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
